@@ -157,6 +157,7 @@
 
 - 12:11 - session notes
 - 14:44 - session notes
+- 18:12 - session notes
 
 ## 2023-11-19
 
