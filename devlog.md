@@ -320,6 +320,10 @@
 
 - 17:05 - session notes
 
+## 2023-07-05
+
+- 14:24 - session notes
+
 ## 2023-11-19
 
 - 11:31 - session notes
