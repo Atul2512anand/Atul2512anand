@@ -637,6 +637,10 @@
 
 - 18:05 - session notes
 
+## 2023-10-31
+
+- 22:48 - session notes
+
 ## 2023-11-19
 
 - 11:31 - session notes
