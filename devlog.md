@@ -20,3 +20,4 @@
 ## 2023-11-25
 
 - 13:14 - session notes
+- 22:28 - session notes
