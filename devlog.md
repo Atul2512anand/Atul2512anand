@@ -36,3 +36,7 @@
 - 12:41 - session notes
 - 14:33 - session notes
 - 17:22 - session notes
+
+## 2023-12-07
+
+- 15:46 - session notes
