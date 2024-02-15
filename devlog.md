@@ -180,3 +180,7 @@
 - 18:16 - session notes
 - 19:00 - session notes
 - 21:50 - session notes
+
+## 2024-02-15
+
+- 10:51 - session notes
