@@ -250,3 +250,4 @@
 ## 2024-03-14
 
 - 15:11 - session notes
+- 15:47 - session notes
