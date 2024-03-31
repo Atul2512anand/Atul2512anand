@@ -288,3 +288,4 @@
 ## 2024-03-31
 
 - 13:57 - session notes
+- 19:30 - session notes
