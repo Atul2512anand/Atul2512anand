@@ -360,3 +360,7 @@
 
 - 09:59 - session notes
 - 12:14 - session notes
+
+## 2024-05-03
+
+- 19:13 - session notes
