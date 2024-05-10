@@ -377,3 +377,4 @@
 ## 2024-05-10
 
 - 12:17 - session notes
+- 15:03 - session notes
