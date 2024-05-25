@@ -420,3 +420,7 @@
 
 - 13:08 - session notes
 - 21:29 - session notes
+
+## 2024-05-25
+
+- 10:27 - session notes
