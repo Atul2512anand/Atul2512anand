@@ -596,3 +596,4 @@
 ## 2024-08-15
 
 - 15:05 - session notes
+- 18:54 - session notes
