@@ -795,3 +795,4 @@
 ## 2024-10-24
 
 - 15:35 - session notes
+- 21:20 - session notes
