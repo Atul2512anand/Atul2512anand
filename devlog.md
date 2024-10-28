@@ -806,3 +806,7 @@
 - 18:56 - session notes
 - 22:06 - session notes
 - 23:08 - session notes
+
+## 2024-10-28
+
+- 14:36 - session notes
