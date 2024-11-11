@@ -839,3 +839,4 @@
 
 - 13:39 - session notes
 - 16:45 - session notes
+- 20:58 - session notes
