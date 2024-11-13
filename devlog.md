@@ -844,3 +844,4 @@
 ## 2024-11-13
 
 - 11:00 - session notes
+- 20:30 - session notes
