@@ -861,3 +861,7 @@
 
 - 17:17 - session notes
 - 20:39 - session notes
+
+## 2024-11-21
+
+- 13:44 - session notes
