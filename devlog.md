@@ -888,3 +888,4 @@
 
 - 15:30 - session notes
 - 18:12 - session notes
+- 20:39 - session notes
