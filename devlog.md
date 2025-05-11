@@ -1179,3 +1179,4 @@
 
 - 13:30 - session notes
 - 18:06 - session notes
+- 20:47 - session notes
