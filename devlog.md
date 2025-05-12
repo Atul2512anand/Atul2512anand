@@ -1180,3 +1180,7 @@
 - 13:30 - session notes
 - 18:06 - session notes
 - 20:47 - session notes
+
+## 2025-05-12
+
+- 22:54 - session notes
