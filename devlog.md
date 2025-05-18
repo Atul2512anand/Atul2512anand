@@ -1213,3 +1213,4 @@
 
 - 12:25 - session notes
 - 17:41 - session notes
+- 19:31 - session notes
