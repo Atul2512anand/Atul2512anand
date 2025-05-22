@@ -1228,3 +1228,4 @@
 
 - 16:53 - session notes
 - 18:16 - session notes
+- 20:49 - session notes
