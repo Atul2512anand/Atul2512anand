@@ -1,37 +1,40 @@
-```md
-<h1 align="center">Hi 👋, I'm Atul Anand</h1>
-<h3 align="center">AI • Cybersecurity • Full Stack • Blockchain</h3>
+# Hi 👋, I'm Atul Anand
 
-<p align="center">
+### AI • Cybersecurity • Full Stack • Blockchain
+
 B.Tech–M.Tech CSE (Cybersecurity) Student at National Forensic Sciences University (NFSU)
-</p>
 
-<p align="center">
-  <a href="https://github.com/Atul2512anand">
-    <img src="https://komarev.com/ghpvc/?username=Atul2512anand&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-  </a>
-</p>
+![](https://komarev.com/ghpvc/?username=Atul2512anand\&label=Profile%20Views\&color=0e75b6\&style=for-the-badge)
 
 ---
 
 # 🚀 About Me
 
-🔬 Passionate about building practical systems combining:
+🔭 I’m currently working on
+Full-stack web apps, AI-powered systems, cybersecurity projects, and blockchain-based applications.
 
-- Artificial Intelligence & Machine Learning
-- Cybersecurity & OSINT
-- Full Stack Development
-- Blockchain Applications
-- Agentic AI Workflows
+👯 I’m looking to collaborate on
+Open-source AI, cybersecurity, blockchain, and full-stack engineering projects.
 
-🎯 Focused on creating real-world solutions with strong engineering, automation, and security foundations.
+🤝 I’m looking for help with
+Advanced AI workflows, scalable architectures, and threat intelligence research.
+
+🌱 I’m currently learning
+Advanced cybersecurity, AI-assisted development workflows, ML engineering, and blockchain systems.
+
+💬 Ask me about
+Full-stack development, GitHub workflows, AI integrations, cybersecurity basics, and project building.
+
+⚡ Fun Fact
+I constantly experiment with new tech stacks and side projects to learn emerging technologies quickly.
 
 ---
 
 # 🎓 Education
 
-### National Forensic Sciences University (NFSU)
-B.Tech–M.Tech in Computer Science (Cybersecurity)  
+## National Forensic Sciences University (NFSU)
+
+B.Tech–M.Tech in Computer Science (Cybersecurity)
 GPA: **8.80/10**
 
 Institute of National Importance under the Ministry of Home Affairs, Government of India
@@ -42,11 +45,11 @@ Institute of National Importance under the Ministry of Home Affairs, Government 
 
 ## 🛡️ Cybersecurity & Tech Analyst Intern — EmergeSmart Health (UAE)
 
-- Built automated ZOHO CRM workflows
-- Launched WordPress Webzine platform
-- Conducted OSINT investigations across 50+ data points
-- Performed HTTP flood resilience assessments
-- Delivered actionable security recommendations
+* Built automated ZOHO CRM workflows
+* Launched WordPress Webzine platform
+* Conducted OSINT investigations across 50+ data points
+* Performed HTTP flood resilience assessments
+* Delivered actionable security recommendations
 
 ---
 
@@ -54,18 +57,18 @@ Institute of National Importance under the Ministry of Home Affairs, Government 
 
 Worked under Dr. Priya Ranjan Muduli
 
-- Applied ML/DL models on multiple datasets
-- Achieved 85–95% model accuracy
-- Performed EDA on 10k+ records
-- Studied Quantum ML research papers
+* Applied ML/DL models on multiple datasets
+* Achieved 85–95% model accuracy
+* Performed EDA on 10k+ records
+* Studied Quantum ML research papers
 
 ---
 
 ## 📊 Data Analytics Intern — Vodafone Intelligent Solutions
 
-- Processed retail and healthcare datasets
-- Built ML attrition prediction models
-- Improved business insights through analytics workflows
+* Processed retail and healthcare datasets
+* Built ML attrition prediction models
+* Improved business insights through analytics workflows
 
 ---
 
@@ -76,13 +79,15 @@ Worked under Dr. Priya Ranjan Muduli
 Blockchain-powered agricultural traceability system enabling immutable supply chain tracking and transparent governance.
 
 ### Tech Stack
+
 Solidity • Ethereum • React • Ethers.js
 
 ### Features
-- Immutable transaction history
-- Role-based governance
-- Live blockchain auditing
-- Produce lifecycle tracking
+
+* Immutable transaction history
+* Role-based governance
+* Live blockchain auditing
+* Produce lifecycle tracking
 
 ---
 
@@ -91,13 +96,15 @@ Solidity • Ethereum • React • Ethers.js
 AI-powered predictive maintenance platform integrating ML models with automation and intelligent assistance.
 
 ### Tech Stack
+
 Python • XGBoost • LangChain • DeepSeek
 
 ### Features
-- Failure prediction system
-- Voice assistance
-- Auto service scheduling
-- Mechanic discovery integration
+
+* Failure prediction system
+* Voice assistance
+* Auto service scheduling
+* Mechanic discovery integration
 
 ---
 
@@ -106,117 +113,116 @@ Python • XGBoost • LangChain • DeepSeek
 Real-time attendance automation platform using computer vision and cloud deployment.
 
 ### Tech Stack
+
 OpenCV • Flask • Azure VM
 
 ### Features
-- Real-time face detection
-- Attendance logging
-- Admin dashboard
-- CSV export system
+
+* Real-time face detection
+* Attendance logging
+* Admin dashboard
+* CSV export system
 
 ---
 
-# 💻 Core Tech Stack
+# 💻 Tech Stack
 
-## Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+### Languages
 
----
-
-## AI / ML
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat\&logo=typescript\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat\&logo=postgresql\&logoColor=white)
 
 ---
 
-## Full Stack Development
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase)
+### AI / ML
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikitlearn\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat\&logo=pytorch\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat\&logo=opencv\&logoColor=white)
 
 ---
 
-## Cybersecurity & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+### Full Stack Development
+
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat\&logo=flask\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat\&logo=fastapi)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat\&logo=firebase)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat\&logo=vercel\&logoColor=white)
 
 ---
 
-## Blockchain & Cloud
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+### Cybersecurity & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat\&logo=nginx\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat\&logo=githubactions\&logoColor=white)
+
+---
+
+### Blockchain & Cloud
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat\&logo=solidity\&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat\&logo=ethereum\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat\&logo=microsoftazure\&logoColor=white)
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atul2512anand&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+![](https://github-readme-stats.vercel.app/api?username=Atul2512anand\&show_icons=true\&theme=tokyonight\&include_all_commits=true\&count_private=true\&hide_border=true)
 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Atul2512anand&theme=tokyonight&hide_border=true"/>
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Atul2512anand\&theme=tokyonight\&hide_border=true)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atul2512anand&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atul2512anand\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=10)
 
 ---
 
 # 📈 Contribution Graph
 
-[![Atul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Atul2512anand&theme=tokyo-night)](https://github.com/Atul2512anand)
+[![Atul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Atul2512anand\&theme=tokyo-night)](https://github.com/Atul2512anand)
 
 ---
 
 # 📜 Certifications
 
-- Microsoft Azure AI Fundamentals
-- Cisco Networking Basics
-- Google Cybersecurity Foundations
-- VOIS Data Analytics using AI/LLMs
-- Linux Fundamentals
-- ISC2 Certified in Cybersecurity (CC) — Preparing
+* Microsoft Azure AI Fundamentals
+* Cisco Networking Basics
+* Google Cybersecurity Foundations
+* VOIS Data Analytics using AI/LLMs
+* Linux Fundamentals
+* ISC2 Certified in Cybersecurity (CC) — Preparing
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/atul-anand-53007a215" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/atul-anand-53007a215)
 
-<a href="https://github.com/Atul2512anand" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/Atul2512anand)
 
-<a href="mailto:atul.btmtcs10232807@nfsu.ac.in">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="30" />
-</a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat\&logo=instagram\&logoColor=white)](https://instagram.com/atul25anand)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:atul.btmtcs10232807@nfsu.ac.in)
 
 ---
 
 # ⚡ Current Focus
 
-- AI-powered automation systems
-- Cybersecurity research & OSINT
-- Predictive AI systems
-- Secure full-stack architectures
-- Blockchain-based transparency systems
+* AI-powered automation systems
+* Cybersecurity research & OSINT
+* Predictive AI systems
+* Secure full-stack architectures
+* Blockchain-based transparency systems
 
 ---
 
 ⭐ If you like my work, consider following my GitHub profile and checking out my repositories.
-```
