@@ -1,18 +1,222 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Full-stack web apps and security-focused projects, including AI-powered tools and blockchain-based systems inspired by my cybersecurity studies and interests.<br>​<br><br>👯 I’m looking to collaborate on<br>Open-source web applications, AI/LLM integrations, and cybersecurity or blockchain projects where we can build practical, real-world tools together.<br>​<br><br>🤝 I’m looking for help with<br>Finding impactful security and AI projects to contribute to, optimizing full-stack architectures, and exploring more advanced threat intelligence and blockchain use cases.<br>​<br><br>🌱 I’m currently learning<br>Cybersecurity concepts as part of my BTech–MTech CSE (Cybersecurity) path along with advanced full-stack development and AI-assisted development workflows.<br>​<br><br>💬 Ask me about<br>Full-stack development, integrating AI models into apps, Git/GitHub workflows, and how to turn idea-stage projects into working prototypes quickly.<br>​<br><br>⚡ Fun fact<br>Despite being into serious cybersecurity and AI projects, I constantly spin up new side projects on GitHub just to experiment with ideas and tech stacks for fun.<br>
+```md
+<h1 align="center">Hi 👋, I'm Atul Anand</h1>
+<h3 align="center">AI • Cybersecurity • Full Stack • Blockchain</h3>
 
+<p align="center">
+B.Tech–M.Tech CSE (Cybersecurity) Student at National Forensic Sciences University (NFSU)
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atul25anand) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atul-anand-53007a215) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atul.btmtcs10232807@nfsu.ac.in) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=flat) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=flat&logo=Pocketbase&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat&logo=testing-library&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Atul2512anand&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Atul2512anand&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atul2512anand&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/Atul2512anand">
+    <img src="https://komarev.com/ghpvc/?username=Atul2512anand&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Atul2512anand&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+🔬 Passionate about building practical systems combining:
+
+- Artificial Intelligence & Machine Learning
+- Cybersecurity & OSINT
+- Full Stack Development
+- Blockchain Applications
+- Agentic AI Workflows
+
+🎯 Focused on creating real-world solutions with strong engineering, automation, and security foundations.
+
+---
+
+# 🎓 Education
+
+### National Forensic Sciences University (NFSU)
+B.Tech–M.Tech in Computer Science (Cybersecurity)  
+GPA: **8.80/10**
+
+Institute of National Importance under the Ministry of Home Affairs, Government of India
+
+---
+
+# 💼 Experience
+
+## 🛡️ Cybersecurity & Tech Analyst Intern — EmergeSmart Health (UAE)
+
+- Built automated ZOHO CRM workflows
+- Launched WordPress Webzine platform
+- Conducted OSINT investigations across 50+ data points
+- Performed HTTP flood resilience assessments
+- Delivered actionable security recommendations
+
+---
+
+## 🔬 Research Intern — IIT BHU
+
+Worked under Dr. Priya Ranjan Muduli
+
+- Applied ML/DL models on multiple datasets
+- Achieved 85–95% model accuracy
+- Performed EDA on 10k+ records
+- Studied Quantum ML research papers
+
+---
+
+## 📊 Data Analytics Intern — Vodafone Intelligent Solutions
+
+- Processed retail and healthcare datasets
+- Built ML attrition prediction models
+- Improved business insights through analytics workflows
+
+---
+
+# 🚀 Featured Projects
+
+## 🔗 AgriSupplyChain Blockchain DApp (AgriChain)
+
+Blockchain-powered agricultural traceability system enabling immutable supply chain tracking and transparent governance.
+
+### Tech Stack
+Solidity • Ethereum • React • Ethers.js
+
+### Features
+- Immutable transaction history
+- Role-based governance
+- Live blockchain auditing
+- Produce lifecycle tracking
+
+---
+
+## 🤖 Autonomous Predictive Bike Maintenance System
+
+AI-powered predictive maintenance platform integrating ML models with automation and intelligent assistance.
+
+### Tech Stack
+Python • XGBoost • LangChain • DeepSeek
+
+### Features
+- Failure prediction system
+- Voice assistance
+- Auto service scheduling
+- Mechanic discovery integration
+
+---
+
+## 👁️ Face Recognition Attendance System
+
+Real-time attendance automation platform using computer vision and cloud deployment.
+
+### Tech Stack
+OpenCV • Flask • Azure VM
+
+### Features
+- Real-time face detection
+- Attendance logging
+- Admin dashboard
+- CSV export system
+
+---
+
+# 💻 Core Tech Stack
+
+## Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+## AI / ML
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+---
+
+## Full Stack Development
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase)
+
+---
+
+## Cybersecurity & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+---
+
+## Blockchain & Cloud
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atul2512anand&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Atul2512anand&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atul2512anand&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Atul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Atul2512anand&theme=tokyo-night)](https://github.com/Atul2512anand)
+
+---
+
+# 📜 Certifications
+
+- Microsoft Azure AI Fundamentals
+- Cisco Networking Basics
+- Google Cybersecurity Foundations
+- VOIS Data Analytics using AI/LLMs
+- Linux Fundamentals
+- ISC2 Certified in Cybersecurity (CC) — Preparing
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/atul-anand-53007a215" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="https://github.com/Atul2512anand" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
+</a>
+
+<a href="mailto:atul.btmtcs10232807@nfsu.ac.in">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="30" />
+</a>
+</p>
+
+---
+
+# ⚡ Current Focus
+
+- AI-powered automation systems
+- Cybersecurity research & OSINT
+- Predictive AI systems
+- Secure full-stack architectures
+- Blockchain-based transparency systems
+
+---
+
+⭐ If you like my work, consider following my GitHub profile and checking out my repositories.
+```
