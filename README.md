@@ -74,7 +74,7 @@ Worked under Dr. Priya Ranjan Muduli
 
 # 🌟 Flagship Projects
 
-## 🎬 Video Kit — AI Video Factory
+## 🎬 [Video Kit — AI Video Factory](https://github.com/Atul2512anand/video-kit)
 
 Turn any content (PDFs, sites, LinkedIn posts) into finished motion videos: a seamless UI-morph loop pipeline and a cinematic security-explainer pipeline, battle-tested end to end.
 
@@ -91,7 +91,7 @@ Python • Playwright • HyperFrames • GSAP • FFmpeg • OpenCode
 
 ---
 
-## 🤖 LinkedIn Auto Publisher
+## 🤖 [LinkedIn Auto Publisher](https://github.com/Atul2512anand/linkedin-auto-publisher-)
 
 Open-source, event-driven automation: scrapes 15+ tech news sources, scores stories, writes posts in your voice with a CLI AI agent, and publishes via the official LinkedIn API on schedule. Zero paid APIs.
 
@@ -108,7 +108,7 @@ Python • RSS • OpenCode / Claude Code • LinkedIn API • Task Scheduler
 
 ---
 
-## 🔬 NFSU Android Forensic Acquisition Tool
+## 🔬 [NFSU Android Forensic Acquisition Tool](https://github.com/Atul2512anand/NFSU-DFIR)
 
 Forensic acquisition and reporting framework (NFSU DFIR mini-project): logical Android evidence acquisition with integrity verification, SQLite parsing, chain-of-custody discipline, and dashboard visualization.
 
@@ -125,7 +125,7 @@ Python • adb-shell • SQLite • Hashing • Dashboards
 
 ---
 
-## 🔨 BuildForge — Talent Platform
+## 🔨 [BuildForge — Talent Platform](https://github.com/Atul2512anand/Buildforge)
 
 Community-led platform connecting founders with emerging talent: scoped-project marketplace (10% commission), mentorship community, curated founder meetups, and a verified Talent Passport.
 
@@ -144,7 +144,7 @@ TypeScript • React • Marketplace economics • Event ops
 
 # 🚀 More Projects
 
-## 🔗 AgriSupplyChain Blockchain DApp (AgriChain)
+## 🔗 [AgriSupplyChain Blockchain DApp (AgriChain)](https://github.com/Atul2512anand/Agrichain)
 
 Blockchain-powered agricultural traceability system enabling immutable supply chain tracking and transparent governance.
 
@@ -161,7 +161,7 @@ Solidity • Ethereum • React • Ethers.js
 
 ---
 
-## 🤖 Autonomous Predictive Bike Maintenance System
+## 🤖 [Autonomous Predictive Bike Maintenance System](https://github.com/Atul2512anand/Autonomous-predictive-maintenance)
 
 AI-powered predictive maintenance platform integrating ML models with automation and intelligent assistance.
 
@@ -178,7 +178,7 @@ Python • XGBoost • LangChain • DeepSeek
 
 ---
 
-## 👁️ Face Recognition Attendance System
+## 👁️ [Face Recognition Attendance System](https://github.com/Atul2512anand/Face-Recognition-Attendance-System)
 
 Real-time attendance automation platform using computer vision and cloud deployment.
 
@@ -195,7 +195,7 @@ OpenCV • Flask • Azure VM
 
 ---
 
-## 💼 Wellfound Job Agent
+## 💼 [Wellfound Job Agent](https://github.com/Atul2512anand/wellfound-agent)
 
 Local automation that finds fresh jobs, scores them against your resume with a local LLM (Ollama), and auto-applies to the best matches. No cloud keys, data never leaves the machine.
 
@@ -321,4 +321,4 @@ Python • Ollama • Llama 3.1 • Web automation
 
 ---
 
-⭐ If you like my work, consider following my GitHub profile and checking out my repositories
+⭐ If you like my work, consider following my GitHub profile and checking out my repositories.
