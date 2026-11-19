@@ -1,11 +1,11 @@
 <a href="https://atul2512anand.github.io/"><img src="assets/hero.svg" width="100%" alt="Atul Anand — Cybersecurity &amp; AI Engineer"></a>
 
 <p align="center">
-  <a href="#about"><b>ABOUT</b></a> &nbsp;·&nbsp;
-  <a href="#experience"><b>EXPERIENCE</b></a> &nbsp;·&nbsp;
-  <a href="#work"><b>WORK</b></a> &nbsp;·&nbsp;
-  <a href="#toolkit"><b>TOOLKIT</b></a> &nbsp;·&nbsp;
-  <a href="#contact"><b>CONTACT</b></a> &nbsp;·&nbsp;
+  <a href="#user-content-about"><b>ABOUT</b></a> &nbsp;·&nbsp;
+  <a href="#user-content-experience"><b>EXPERIENCE</b></a> &nbsp;·&nbsp;
+  <a href="#user-content-work"><b>WORK</b></a> &nbsp;·&nbsp;
+  <a href="#user-content-toolkit"><b>TOOLKIT</b></a> &nbsp;·&nbsp;
+  <a href="#user-content-contact"><b>CONTACT</b></a> &nbsp;·&nbsp;
   <a href="https://atul2512anand.github.io/"><b>PORTFOLIO ↗</b></a>
 </p>
 
