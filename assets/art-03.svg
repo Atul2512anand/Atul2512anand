@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="460" viewBox="0 0 520 460" role="img" aria-label="DETECT / LOG">
-<rect width="520" height="460" fill="#cde0ff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="460" viewBox="0 0 520 460" role="img" aria-label="SCRIPT / MOTION / RENDER">
+<rect width="520" height="460" fill="#f2a39c"/>
 <rect x="1" y="1" width="518" height="458" fill="none" stroke="#0b0b0b" stroke-width="1.5"/>
 <g stroke="#0b0b0b" stroke-opacity="0.10" stroke-width="1">
 <line x1="52" y1="0" x2="52" y2="460"/>
@@ -22,7 +22,7 @@
 </g>
 <circle cx="260" cy="230" r="152" fill="none" stroke="#0b0b0b" stroke-opacity="0.32" stroke-width="1.5" stroke-dasharray="4 10"/>
 <text x="508" y="150" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="190" font-weight="900" letter-spacing="-12" text-anchor="end" fill="none" stroke="#0b0b0b" stroke-opacity="0.27" stroke-width="1.9">03</text>
-<g fill="none" stroke="#0b0b0b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d="M180 190v-22h24M340 190v-22h-24M180 270v22h24M340 270v22h-24"/><path d="M216 222v14M304 222v14"/><path d="M216 274c14 16 72 16 88 0"/><path d="M260 224v26h-12"/></g>
-<text x="24" y="428" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="500" letter-spacing="2.2" fill="#0b0b0b" fill-opacity="0.8" text-anchor="start">DETECT / LOG</text>
+<g fill="none" stroke="#0b0b0b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><rect x="165" y="160" width="210" height="140" rx="10"/><path d="M180 172h14v12h-14zM225 172h14v12h-14zM270 172h14v12h-14zM315 172h14v12h-14z"/><path d="M180 276h14v12h-14zM225 276h14v12h-14zM270 276h14v12h-14zM315 276h14v12h-14z"/><path d="M250 200l56 30-56 30z" fill="#0b0b0b" stroke="none"/><path d="M120 205h34M110 230h44M125 255h29"/><path d="M165 330h210"/><circle cx="200" cy="330" r="4" fill="#0b0b0b"/><circle cx="270" cy="330" r="4" fill="#0b0b0b"/><circle cx="340" cy="330" r="4" fill="#0b0b0b"/></g>
+<text x="24" y="428" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="500" letter-spacing="2.2" fill="#0b0b0b" fill-opacity="0.8" text-anchor="start">SCRIPT / MOTION / RENDER</text>
 <rect x="24" y="24" width="14" height="14" fill="#ff2e88"/>
 </svg>

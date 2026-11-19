@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="460" viewBox="0 0 520 460" role="img" aria-label="CHAIN / TRACEABILITY">
-<rect width="520" height="460" fill="#f1d860"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="460" viewBox="0 0 520 460" role="img" aria-label="ACQUIRE / HASH / REPORT">
+<rect width="520" height="460" fill="#cde0ff"/>
 <rect x="1" y="1" width="518" height="458" fill="none" stroke="#0b0b0b" stroke-width="1.5"/>
 <g stroke="#0b0b0b" stroke-opacity="0.10" stroke-width="1">
 <line x1="52" y1="0" x2="52" y2="460"/>
@@ -22,7 +22,7 @@
 </g>
 <circle cx="260" cy="230" r="152" fill="none" stroke="#0b0b0b" stroke-opacity="0.32" stroke-width="1.5" stroke-dasharray="4 10"/>
 <text x="508" y="150" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="190" font-weight="900" letter-spacing="-12" text-anchor="end" fill="none" stroke="#0b0b0b" stroke-opacity="0.27" stroke-width="1.9">01</text>
-<g fill="none" stroke="#0b0b0b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><rect x="170" y="160" width="76" height="76" rx="5"/><rect x="274" y="160" width="76" height="76" rx="5"/><rect x="170" y="264" width="76" height="76" rx="5"/><path d="M246 198h28M222 236v28M222 300h52v-36"/><path d="M300 236v28h-26"/></g>
-<text x="24" y="428" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="500" letter-spacing="2.2" fill="#0b0b0b" fill-opacity="0.8" text-anchor="start">CHAIN / TRACEABILITY</text>
+<g fill="none" stroke="#0b0b0b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><rect x="178" y="140" width="118" height="200" rx="18"/><path d="M220 162h34"/><path d="M204 232h44M204 250h44M204 268h30"/><circle cx="348" cy="252" r="38"/><path d="M375 279l24 24"/><path d="M336 236v34M354 236v34M328 248h40M328 264h40"/></g>
+<text x="24" y="428" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="500" letter-spacing="2.2" fill="#0b0b0b" fill-opacity="0.8" text-anchor="start">ACQUIRE / HASH / REPORT</text>
 <rect x="24" y="24" width="14" height="14" fill="#ff2e88"/>
 </svg>

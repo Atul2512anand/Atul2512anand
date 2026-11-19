@@ -51,33 +51,33 @@ I build secure, intelligent systems — from blockchain supply-chain traceabilit
 
 <table>
 <tr>
-<td width="270" valign="middle"><a href="https://github.com/Atul2512anand/Agrichain"><img src="assets/art-01.svg" width="245" alt="AgriChain — blockchain traceability"></a></td>
+<td width="270" valign="middle"><a href="https://github.com/Atul2512anand/NFSU-DFIR"><img src="assets/art-01.svg" width="245" alt="NFSU DFIR — Android forensic acquisition"></a></td>
 <td valign="top">
-<p><sub>BUILD 01 / BLOCKCHAIN TRACEABILITY</sub></p>
-<h3><a href="https://github.com/Atul2512anand/Agrichain">AgriChain</a></h3>
-<p>Immutable agricultural traceability: a public blockchain dApp that tracks produce from farmer to distributor to retailer. Role-based on-chain governance, verifiable transaction history and live public auditing.</p>
-<p><code>Solidity</code> <code>Ethereum</code> <code>Ethers.js</code></p>
-<p><a href="https://github.com/Atul2512anand/Agrichain"><strong>View on GitHub ↗</strong></a></p>
+<p><sub>BUILD 01 / ANDROID FORENSICS</sub></p>
+<h3><a href="https://github.com/Atul2512anand/NFSU-DFIR">NFSU DFIR</a></h3>
+<p>Logical Android acquisition with chain-of-custody built in: adb-shell pulls apps, calls, SMS, Chrome history and media, SHA-256 manifests verify every artefact, and a Flask dashboard streams the run before writing JSON + HTML forensic reports. EXIF GPS and SQLite freelist analysis surface location and deleted-record leads. 17/17 tests passing.</p>
+<p><code>Python</code> <code>adb-shell</code> <code>Flask</code> <code>SQLite</code> <code>SHA-256</code></p>
+<p><a href="https://github.com/Atul2512anand/NFSU-DFIR"><strong>View on GitHub ↗</strong></a></p>
 </td>
 </tr>
 <tr>
-<td width="270" valign="middle"><a href="https://github.com/Atul2512anand/Autonomous-predictive-maintenance"><img src="assets/art-02.svg" width="245" alt="Autonomous predictive maintenance — agentic AI"></a></td>
+<td width="270" valign="middle"><a href="https://github.com/Atul2512anand/android-security-triage"><img src="assets/art-02.svg" width="245" alt="Android Security Triage — remote spyware scan"></a></td>
 <td valign="top">
-<p><sub>BUILD 02 / PREDICTIVE MAINTENANCE</sub></p>
-<h3><a href="https://github.com/Atul2512anand/Autonomous-predictive-maintenance">Autonomous Predictive Bike Maintenance</a></h3>
-<p>Agentic predictive maintenance: an XGBoost model trained on AI4I 2020 flags component failures before they happen, then LangChain + DeepSeek schedule the service, find a mechanic and talk you through it.</p>
-<p><code>Agentic AI</code> <code>XGBoost</code> <code>LangChain</code> <code>DeepSeek</code></p>
-<p><a href="https://github.com/Atul2512anand/Autonomous-predictive-maintenance"><strong>View on GitHub ↗</strong></a></p>
+<p><sub>BUILD 02 / REMOTE TRIAGE</sub></p>
+<h3><a href="https://github.com/Atul2512anand/android-security-triage">Android Security Triage</a></h3>
+<p>A consented, click-to-run Windows toolkit that checks a remote phone for spyware, stalkerware and backdoor indicators. It connects over Tailscale + ADB without installing anything on the phone, orchestrates MVT and APKiD (plus optional MobSF), hashes pulled APKs and writes a timestamped case file — with a redacted real-device case study.</p>
+<p><code>PowerShell</code> <code>ADB</code> <code>Tailscale</code> <code>MVT</code> <code>APKiD</code></p>
+<p><a href="https://github.com/Atul2512anand/android-security-triage"><strong>View on GitHub ↗</strong></a></p>
 </td>
 </tr>
 <tr>
-<td width="270" valign="middle"><a href="https://github.com/Atul2512anand/Face-Recognition-Attendance-System"><img src="assets/art-03.svg" width="245" alt="Face recognition attendance — computer vision"></a></td>
+<td width="270" valign="middle"><a href="https://github.com/Atul2512anand/video-kit"><img src="assets/art-03.svg" width="245" alt="Video Kit — motion pipelines"></a></td>
 <td valign="top">
-<p><sub>BUILD 03 / COMPUTER VISION</sub></p>
-<h3><a href="https://github.com/Atul2512anand/Face-Recognition-Attendance-System">Face Recognition Attendance</a></h3>
-<p>Real-time attendance: a live face-recognition pipeline that identifies people, logs timestamps and confidence scores, and gives admins a training and CSV-export dashboard. Deployed 24/7 on an Azure VM.</p>
-<p><code>OpenCV</code> <code>Flask</code> <code>Azure VM</code></p>
-<p><a href="https://github.com/Atul2512anand/Face-Recognition-Attendance-System"><strong>View on GitHub ↗</strong></a></p>
+<p><sub>BUILD 03 / MOTION PIPELINES</sub></p>
+<h3><a href="https://github.com/Atul2512anand/video-kit">Video Kit</a></h3>
+<p>Two battle-tested pipelines that turn PDFs, sites and posts into finished motion video: a 23-second beat-synced UI morph loop and a 20-second cinematic security explainer. Playwright renders subframes, numpy blends motion blur, FFmpeg encodes, and sound hits are cut on measured peaks.</p>
+<p><code>Playwright</code> <code>GSAP</code> <code>FFmpeg</code> <code>HyperFrames</code></p>
+<p><a href="https://github.com/Atul2512anand/video-kit"><strong>View on GitHub ↗</strong></a></p>
 </td>
 </tr>
 </table>
@@ -88,10 +88,10 @@ I build secure, intelligent systems — from blockchain supply-chain traceabilit
 
 | PROJECT | WHAT IT DOES |
 |:--|:--|
-| [Video Kit](https://github.com/Atul2512anand/video-kit) | Content → finished motion video. Morph-loop and cinematic security-explainer pipelines on Playwright, HyperFrames, GSAP and FFmpeg. |
+| [AgriChain](https://github.com/Atul2512anand/Agrichain) | Public blockchain traceability from farmer to distributor to retailer — role-based smart contracts on Ethereum Sepolia, deployed on Vercel. |
+| [Autonomous Predictive Bike Maintenance](https://github.com/Atul2512anand/Autonomous-predictive-maintenance) | XGBoost flags failures 200–500 km early; LangChain + DeepSeek schedule service, find a mechanic and talk the rider through it. |
+| [Face Recognition Attendance](https://github.com/Atul2512anand/Face-Recognition-Attendance-System) | Real-time OpenCV + Flask attendance with confidence scores, admin training panel and CSV export, deployed 24/7 on an Azure VM. |
 | [LinkedIn Auto Publisher](https://github.com/Atul2512anand/linkedin-auto-publisher-) | Event-driven publisher: scans 15+ tech sources, scores stories, writes in my voice, posts through the official API. |
-| [NFSU DFIR](https://github.com/Atul2512anand/NFSU-DFIR) | Android forensic acquisition with integrity hashing, SQLite parsing, chain-of-custody timelines and court-ready reports. |
-| [android-security-triage](https://github.com/Atul2512anand/android-security-triage) | Consented remote malware and backdoor triage over Tailscale for any ADB device. |
 | [BuildForge](https://github.com/Atul2512anand/Buildforge) | Community-led talent platform: scoped-project marketplace, mentorship and verified proof-of-work passports. |
 | [Wellfound Agent](https://github.com/Atul2512anand/wellfound-agent) | Local job agent that scrapes fresh roles, scores them against my resume with Ollama, and auto-applies with safety caps. |
 
@@ -148,7 +148,7 @@ I build secure, intelligent systems — from blockchain supply-chain traceabilit
 
 **ALSO ON THE RECORD**
 - **Top Performer** — CoE-CS OT/IT Security hands-on assessment (PLCs, SCADA, SOC).
-- **3 deployed full-stack builds** spanning blockchain, AI and computer vision: AgriChain, predictive maintenance, attendance.
+- **3 further shipped builds** across blockchain, AI and computer vision: AgriChain, predictive maintenance, attendance.
 - **8.80/10 GPA** at NFSU · 92% CBSE XII · 98% CBSE X.
 
 <a id="contact"></a>

@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="460" viewBox="0 0 520 460" role="img" aria-label="PREDICT / MAINTAIN">
-<rect width="520" height="460" fill="#f2a39c"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="460" viewBox="0 0 520 460" role="img" aria-label="CONSENTED / REMOTE TRIAGE">
+<rect width="520" height="460" fill="#b9cd4b"/>
 <rect x="1" y="1" width="518" height="458" fill="none" stroke="#0b0b0b" stroke-width="1.5"/>
 <g stroke="#0b0b0b" stroke-opacity="0.10" stroke-width="1">
 <line x1="52" y1="0" x2="52" y2="460"/>
@@ -22,7 +22,7 @@
 </g>
 <circle cx="260" cy="230" r="152" fill="none" stroke="#0b0b0b" stroke-opacity="0.32" stroke-width="1.5" stroke-dasharray="4 10"/>
 <text x="508" y="150" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="190" font-weight="900" letter-spacing="-12" text-anchor="end" fill="none" stroke="#0b0b0b" stroke-opacity="0.27" stroke-width="1.9">02</text>
-<g fill="none" stroke="#0b0b0b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d="M150 230h52l22-58 34 116 26-86 18 28h68"/><circle cx="150" cy="230" r="5" fill="#0b0b0b"/><circle cx="370" cy="230" r="5" fill="#0b0b0b"/></g>
-<text x="24" y="428" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="500" letter-spacing="2.2" fill="#0b0b0b" fill-opacity="0.8" text-anchor="start">PREDICT / MAINTAIN</text>
+<g fill="none" stroke="#0b0b0b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><rect x="180" y="150" width="110" height="180" rx="16"/><path d="M235 190l32 12v20c0 18-12 30-32 37-20-7-32-19-32-37v-20z"/><path d="M219 232l10 10 18-22"/><path d="M302 164a22 22 0 0 1 0 32"/><path d="M310 154a34 34 0 0 1 0 52"/><path d="M318 144a46 46 0 0 1 0 72"/></g>
+<text x="24" y="428" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="500" letter-spacing="2.2" fill="#0b0b0b" fill-opacity="0.8" text-anchor="start">CONSENTED / REMOTE TRIAGE</text>
 <rect x="24" y="24" width="14" height="14" fill="#ff2e88"/>
 </svg>
