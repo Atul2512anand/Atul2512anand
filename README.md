@@ -15,6 +15,7 @@
 ---
 
 <a id="about"></a>
+
 ![01 — About](assets/band-about.svg)
 
 I build secure, intelligent systems — from blockchain supply-chain traceability to predictive-maintenance agents. B.Tech–M.Tech Cybersecurity student at NFSU with hands-on experience across AI/ML, OSINT, cloud and OT security.
@@ -34,6 +35,7 @@ I build secure, intelligent systems — from blockchain supply-chain traceabilit
 </table>
 
 <a id="experience"></a>
+
 ![02 — Experience](assets/band-experience.svg)
 
 | # | ROLE | COMPANY | PERIOD |
@@ -44,6 +46,7 @@ I build secure, intelligent systems — from blockchain supply-chain traceabilit
 | <sub>04</sub> | **CoE-CS OT/IT Security Trainee**<br><sub>PLCs, SCADA · ISO 27001 incident-response labs · SOC workflows · Top Performer</sub> | CoE-CS, NFSU | <sub>JUL 2025</sub> |
 
 <a id="work"></a>
+
 ![03 — Selected work](assets/band-work.svg)
 
 <table>
@@ -95,6 +98,7 @@ I build secure, intelligent systems — from blockchain supply-chain traceabilit
 <p align="right"><a href="https://github.com/Atul2512anand?tab=repositories"><sub>ALL REPOS ↗</sub></a></p>
 
 <a id="toolkit"></a>
+
 ![04 — Toolkit](assets/band-toolkit.svg)
 
 | LANGUAGES | FRAMEWORKS & DATA | AI / ML | SECURITY · BLOCKCHAIN · CLOUD |
@@ -148,6 +152,7 @@ I build secure, intelligent systems — from blockchain supply-chain traceabilit
 - **8.80/10 GPA** at NFSU · 92% CBSE XII · 98% CBSE X.
 
 <a id="contact"></a>
+
 ![07 — Contact](assets/band-contact.svg)
 
 <table>
