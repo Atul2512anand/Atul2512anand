@@ -1,324 +1,179 @@
-# Hi 👋, I'm Atul Anand
+<a href="https://atul2512anand.github.io/"><img src="assets/hero.svg" width="100%" alt="Atul Anand — Cybersecurity &amp; AI Engineer"></a>
 
-### AI • Cybersecurity • Full Stack • Blockchain
+<p align="center">
+  <a href="#about"><b>ABOUT</b></a> &nbsp;·&nbsp;
+  <a href="#experience"><b>EXPERIENCE</b></a> &nbsp;·&nbsp;
+  <a href="#work"><b>WORK</b></a> &nbsp;·&nbsp;
+  <a href="#toolkit"><b>TOOLKIT</b></a> &nbsp;·&nbsp;
+  <a href="#contact"><b>CONTACT</b></a> &nbsp;·&nbsp;
+  <a href="https://atul2512anand.github.io/"><b>PORTFOLIO ↗</b></a>
+</p>
 
-B.Tech–M.Tech CSE (Cybersecurity) Student at National Forensic Sciences University (NFSU)
-
-![](https://komarev.com/ghpvc/?username=Atul2512anand&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-
----
-
-# 🚀 About Me
-
-🔭 I’m currently working on
-AI video generation pipelines, autonomous content & job agents, DFIR tooling, and the BuildForge talent platform.
-
-👯 I’m looking to collaborate on
-Open-source AI, cybersecurity, blockchain, and full-stack engineering projects.
-
-🤝 I’m looking for help with
-Advanced AI workflows, scalable architectures, and threat intelligence research.
-
-🌱 I’m currently learning
-Advanced cybersecurity, AI-assisted development workflows, ML engineering, and blockchain systems.
-
-💬 Ask me about
-AI video pipelines, automation agents, DFIR tooling, full-stack development, and project building.
-
-⚡ Fun Fact
-I ship autonomous systems that run while I sleep — content publishers, job agents, video factories.
+<p align="center"><sub>WORKED &amp; TRAINED WITH</sub></p>
+<p align="center"><b>EmergeSmart Health</b> &nbsp;·&nbsp; <b>IIT (BHU)</b> &nbsp;·&nbsp; <b>Vodafone Intelligent Solutions</b> &nbsp;·&nbsp; <b>CoE-CS, NFSU</b></p>
 
 ---
 
-# 🎓 Education
+<a id="about"></a>
+![01 — About](assets/band-about.svg)
 
-## National Forensic Sciences University (NFSU)
+I build secure, intelligent systems — from blockchain supply-chain traceability to predictive-maintenance agents. B.Tech–M.Tech Cybersecurity student at NFSU with hands-on experience across AI/ML, OSINT, cloud and OT security.
 
-B.Tech–M.Tech in Computer Science (Cybersecurity)
-GPA: **8.80/10**
+<table>
+<tr>
+<td width="58%" valign="top">
+<h3>At a glance</h3>
+<p><strong>8.80 / 10</strong> — GPA at NFSU<br>
+<strong>04</strong> — internships &amp; training<br>
+<strong>03</strong> — featured builds</p>
+<p><strong>Currently building</strong> AI video pipelines, autonomous agents and DFIR tooling.<br>
+<strong>Open to</strong> security engineering internships and AI × security collaborations.</p>
+</td>
+<td width="42%" valign="middle"><img src="assets/portrait-card.jpg" width="100%" alt="Atul Anand, cybersecurity and AI engineer"></td>
+</tr>
+</table>
 
-Institute of National Importance under the Ministry of Home Affairs, Government of India
+<a id="experience"></a>
+![02 — Experience](assets/band-experience.svg)
+
+| # | ROLE | COMPANY | PERIOD |
+|:--|:--|:--|--:|
+| <sub>01</sub> | **Cybersecurity & Tech Analyst Intern**<br><sub>ZOHO CRM workflow · 50+ OSINT data points · HTTP-flood resilience testing</sub> | EmergeSmart Health (UAE) | <sub>JUL 2025 — FEB 2026</sub> |
+| <sub>02</sub> | **Research Intern**<br><sub>Under Dr. Priya Ranjan Muduli · ML/DL on 4 datasets at 85–95% accuracy</sub> | IIT (BHU) | <sub>MAY — JUL 2025</sub> |
+| <sub>03</sub> | **Data Analytics Intern**<br><sub>9,994 retail entries · 5k+ health records · attrition model at 78% accuracy</sub> | Vodafone Intelligent Solutions | <sub>OCT — NOV 2024</sub> |
+| <sub>04</sub> | **CoE-CS OT/IT Security Trainee**<br><sub>PLCs, SCADA · ISO 27001 incident-response labs · SOC workflows · Top Performer</sub> | CoE-CS, NFSU | <sub>JUL 2025</sub> |
+
+<a id="work"></a>
+![03 — Selected work](assets/band-work.svg)
+
+<table>
+<tr>
+<td width="270" valign="middle"><a href="https://github.com/Atul2512anand/Agrichain"><img src="assets/art-01.svg" width="245" alt="AgriChain — blockchain traceability"></a></td>
+<td valign="top">
+<p><sub>BUILD 01 / BLOCKCHAIN TRACEABILITY</sub></p>
+<h3><a href="https://github.com/Atul2512anand/Agrichain">AgriChain</a></h3>
+<p>Immutable agricultural traceability: a public blockchain dApp that tracks produce from farmer to distributor to retailer. Role-based on-chain governance, verifiable transaction history and live public auditing.</p>
+<p><code>Solidity</code> <code>Ethereum</code> <code>Ethers.js</code></p>
+<p><a href="https://github.com/Atul2512anand/Agrichain"><strong>View on GitHub ↗</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="270" valign="middle"><a href="https://github.com/Atul2512anand/Autonomous-predictive-maintenance"><img src="assets/art-02.svg" width="245" alt="Autonomous predictive maintenance — agentic AI"></a></td>
+<td valign="top">
+<p><sub>BUILD 02 / PREDICTIVE MAINTENANCE</sub></p>
+<h3><a href="https://github.com/Atul2512anand/Autonomous-predictive-maintenance">Autonomous Predictive Bike Maintenance</a></h3>
+<p>Agentic predictive maintenance: an XGBoost model trained on AI4I 2020 flags component failures before they happen, then LangChain + DeepSeek schedule the service, find a mechanic and talk you through it.</p>
+<p><code>Agentic AI</code> <code>XGBoost</code> <code>LangChain</code> <code>DeepSeek</code></p>
+<p><a href="https://github.com/Atul2512anand/Autonomous-predictive-maintenance"><strong>View on GitHub ↗</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="270" valign="middle"><a href="https://github.com/Atul2512anand/Face-Recognition-Attendance-System"><img src="assets/art-03.svg" width="245" alt="Face recognition attendance — computer vision"></a></td>
+<td valign="top">
+<p><sub>BUILD 03 / COMPUTER VISION</sub></p>
+<h3><a href="https://github.com/Atul2512anand/Face-Recognition-Attendance-System">Face Recognition Attendance</a></h3>
+<p>Real-time attendance: a live face-recognition pipeline that identifies people, logs timestamps and confidence scores, and gives admins a training and CSV-export dashboard. Deployed 24/7 on an Azure VM.</p>
+<p><code>OpenCV</code> <code>Flask</code> <code>Azure VM</code></p>
+<p><a href="https://github.com/Atul2512anand/Face-Recognition-Attendance-System"><strong>View on GitHub ↗</strong></a></p>
+</td>
+</tr>
+</table>
+
+<br>
+
+**ALSO SHIPPED**
+
+| PROJECT | WHAT IT DOES |
+|:--|:--|
+| [Video Kit](https://github.com/Atul2512anand/video-kit) | Content → finished motion video. Morph-loop and cinematic security-explainer pipelines on Playwright, HyperFrames, GSAP and FFmpeg. |
+| [LinkedIn Auto Publisher](https://github.com/Atul2512anand/linkedin-auto-publisher-) | Event-driven publisher: scans 15+ tech sources, scores stories, writes in my voice, posts through the official API. |
+| [NFSU DFIR](https://github.com/Atul2512anand/NFSU-DFIR) | Android forensic acquisition with integrity hashing, SQLite parsing, chain-of-custody timelines and court-ready reports. |
+| [android-security-triage](https://github.com/Atul2512anand/android-security-triage) | Consented remote malware and backdoor triage over Tailscale for any ADB device. |
+| [BuildForge](https://github.com/Atul2512anand/Buildforge) | Community-led talent platform: scoped-project marketplace, mentorship and verified proof-of-work passports. |
+| [Wellfound Agent](https://github.com/Atul2512anand/wellfound-agent) | Local job agent that scrapes fresh roles, scores them against my resume with Ollama, and auto-applies with safety caps. |
+
+<p align="right"><a href="https://github.com/Atul2512anand?tab=repositories"><sub>ALL REPOS ↗</sub></a></p>
+
+<a id="toolkit"></a>
+![04 — Toolkit](assets/band-toolkit.svg)
+
+| LANGUAGES | FRAMEWORKS & DATA | AI / ML | SECURITY · BLOCKCHAIN · CLOUD |
+|:--|:--|:--|:--|
+| Python · Java · C/C++ · SQL · JavaScript · HTML/CSS | Flask · FastAPI · React · OpenCV · Pandas · NumPy · Matplotlib | Scikit-learn · XGBoost · KNN · SVM · Random Forests · LangChain · DeepSeek | Solidity · Ethereum · Ethers.js · Azure · Docker · Nginx · Git |
+
+**FOCUS** &nbsp; `AI/ML` `Cybersecurity` `Blockchain` `Cloud` `OT/SCADA` `Data Analytics`
+
+<a id="education"></a>
+![05 — Education](assets/band-education.svg)
+
+| GRADUATION | INTERMEDIATE / +2 | MATRICULATION |
+|:--|:--|:--|
+| **8.80 / 10**<br>B.Tech–M.Tech, CS (Cybersecurity)<br>National Forensic Sciences University, Dharwad<br><sub>2023 — PRESENT</sub> | **92%**<br>CBSE (XII)<br>Central Board of Secondary Education<br><sub>2022</sub> | **98%**<br>CBSE (X)<br>Central Board of Secondary Education<br><sub>2020</sub> |
+
+**RELEVANT COURSEWORK** &nbsp; `Cryptography & Network Security` `Digital Forensics` `OT/IT & SCADA Security` `AI for Cybersecurity` `Blockchain Technology` `Incident Response` `SOC Operations` `Cloud Computing`
+
+<a id="receipts"></a>
+![06 — Receipts](assets/band-receipts.svg)
+
+<table width="100%">
+<tr>
+<th align="left" width="5%">#</th>
+<th align="left" width="55%">TRAINING</th>
+<th align="left" width="25%">ISSUER</th>
+<th align="right" width="15%">DATE</th>
+</tr>
+<tr>
+<td><sub>01</sub></td>
+<td><strong>CoE-CS OT/IT Security Training</strong><br><sub>PLCs, SCADA, SOC workflows and ISO 27001 incident-response labs</sub></td>
+<td>NFSU</td>
+<td align="right"><sub>JUL 2025</sub></td>
+</tr>
+<tr>
+<td><sub>02</sub></td>
+<td><strong>Zoho CRM &amp; WordPress Automation</strong><br><sub>ZOHO CRM workflow and WordPress Webzine for health-tech outreach</sub></td>
+<td>EmergeSmart Health</td>
+<td align="right"><sub>2025–26</sub></td>
+</tr>
+<tr>
+<td><sub>03</sub></td>
+<td><strong>Quantum ML Literature Review</strong><br><sub>Reviewed 3 papers bridging classical and quantum methods</sub></td>
+<td>IIT (BHU)</td>
+<td align="right"><sub>MAY–JUL 2025</sub></td>
+</tr>
+</table>
+
+**ALSO ON THE RECORD**
+- **Top Performer** — CoE-CS OT/IT Security hands-on assessment (PLCs, SCADA, SOC).
+- **3 deployed full-stack builds** spanning blockchain, AI and computer vision: AgriChain, predictive maintenance, attendance.
+- **8.80/10 GPA** at NFSU · 92% CBSE XII · 98% CBSE X.
+
+<a id="contact"></a>
+![07 — Contact](assets/band-contact.svg)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<strong>EMAIL</strong><br>
+<a href="mailto:atul.btmtcs10232807@nfsu.ac.in">atul.btmtcs10232807@nfsu.ac.in</a><br><br>
+<strong>PHONE</strong><br>
++91 80024 24420<br><br>
+<strong>BASED</strong><br>
+Dharwad, Karnataka, India
+</td>
+<td width="50%" valign="top">
+<strong>RESUME</strong><br>
+<a href="https://atul2512anand.github.io/resume.pdf">Download PDF ↗</a><br><br>
+<strong>ELSEWHERE</strong><br>
+<a href="https://github.com/Atul2512anand">GitHub</a> · <a href="https://www.linkedin.com/in/atul-anand-53007a215/">LinkedIn</a> · <a href="https://x.com/atul_sci">X</a> · <a href="https://www.instagram.com/atul25anand/">Instagram</a> · <a href="https://leetcode.com/u/atul2512anand/">LeetCode</a>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="mailto:atul.btmtcs10232807@nfsu.ac.in"><img src="https://img.shields.io/badge/EMAIL_ME-0b0b0b?style=for-the-badge&amp;logo=gmail&amp;logoColor=fff8e7" alt="Email me"></a>
+  <a href="https://atul2512anand.github.io/resume.pdf"><img src="https://img.shields.io/badge/VIEW_RESUME-ff2e88?style=for-the-badge" alt="View resume"></a>
+</p>
 
 ---
 
-# 💼 Experience
-
-## 🛡️ Cybersecurity & Tech Analyst Intern — EmergeSmart Health (UAE)
-
-* Built automated ZOHO CRM workflows
-* Launched WordPress Webzine platform
-* Conducted OSINT investigations across 50+ data points
-* Performed HTTP flood resilience assessments
-* Delivered actionable security recommendations
-
----
-
-## 🔬 Research Intern — IIT BHU
-
-Worked under Dr. Priya Ranjan Muduli
-
-* Applied ML/DL models on multiple datasets
-* Achieved 85–95% model accuracy
-* Performed EDA on 10k+ records
-* Studied Quantum ML research papers
-
----
-
-## 📊 Data Analytics Intern — Vodafone Intelligent Solutions
-
-* Processed retail and healthcare datasets
-* Built ML attrition prediction models
-* Improved business insights through analytics workflows
-
----
-
-# 🌟 Flagship Projects
-
-## 🎬 [Video Kit — AI Video Factory](https://github.com/Atul2512anand/video-kit)
-
-Turn any content (PDFs, sites, LinkedIn posts) into finished motion videos: a seamless UI-morph loop pipeline and a cinematic security-explainer pipeline, battle-tested end to end.
-
-### Tech Stack
-
-Python • Playwright • HyperFrames • GSAP • FFmpeg • OpenCode
-
-### Features
-
-* Content → video in one command
-* Beat-synced motion + SFX pipelines
-* Reusable skill pack (23 vendored skills)
-* Snapshot-gated QA before every render
-
----
-
-## 🤖 [LinkedIn Auto Publisher](https://github.com/Atul2512anand/linkedin-auto-publisher-)
-
-Open-source, event-driven automation: scrapes 15+ tech news sources, scores stories, writes posts in your voice with a CLI AI agent, and publishes via the official LinkedIn API on schedule. Zero paid APIs.
-
-### Tech Stack
-
-Python • RSS • OpenCode / Claude Code • LinkedIn API • Task Scheduler
-
-### Features
-
-* Freshness + newsworthiness scoring
-* Persona-driven writing (persona.txt)
-* Optional AI hero images & PDF carousels
-* Source link auto-commented for reach
-
----
-
-## 🔬 [NFSU Android Forensic Acquisition Tool](https://github.com/Atul2512anand/NFSU-DFIR)
-
-Forensic acquisition and reporting framework (NFSU DFIR mini-project): logical Android evidence acquisition with integrity verification, SQLite parsing, chain-of-custody discipline, and dashboard visualization.
-
-### Tech Stack
-
-Python • adb-shell • SQLite • Hashing • Dashboards
-
-### Features
-
-* App / call / SMS / browser-history extraction
-* Media metadata + EXIF GPS evidence
-* Integrity hashing + forensic timelines
-* Court-ready reporting format
-
----
-
-## 🔨 [BuildForge — Talent Platform](https://github.com/Atul2512anand/Buildforge)
-
-Community-led platform connecting founders with emerging talent: scoped-project marketplace (10% commission), mentorship community, curated founder meetups, and a verified Talent Passport.
-
-### Tech Stack
-
-TypeScript • React • Marketplace economics • Event ops
-
-### Features
-
-* Brief → match → deliver → passport workflow
-* Mentor sessions + masterclasses
-* Invite-only Circle meetups (12–15 founders)
-* Verified proof-of-work credentials
-
----
-
-# 🚀 More Projects
-
-## 🔗 [AgriSupplyChain Blockchain DApp (AgriChain)](https://github.com/Atul2512anand/Agrichain)
-
-Blockchain-powered agricultural traceability system enabling immutable supply chain tracking and transparent governance.
-
-### Tech Stack
-
-Solidity • Ethereum • React • Ethers.js
-
-### Features
-
-* Immutable transaction history
-* Role-based governance
-* Live blockchain auditing
-* Produce lifecycle tracking
-
----
-
-## 🤖 [Autonomous Predictive Bike Maintenance System](https://github.com/Atul2512anand/Autonomous-predictive-maintenance)
-
-AI-powered predictive maintenance platform integrating ML models with automation and intelligent assistance.
-
-### Tech Stack
-
-Python • XGBoost • LangChain • DeepSeek
-
-### Features
-
-* Failure prediction system
-* Voice assistance
-* Auto service scheduling
-* Mechanic discovery integration
-
----
-
-## 👁️ [Face Recognition Attendance System](https://github.com/Atul2512anand/Face-Recognition-Attendance-System)
-
-Real-time attendance automation platform using computer vision and cloud deployment.
-
-### Tech Stack
-
-OpenCV • Flask • Azure VM
-
-### Features
-
-* Real-time face detection
-* Attendance logging
-* Admin dashboard
-* CSV export system
-
----
-
-## 💼 [Wellfound Job Agent](https://github.com/Atul2512anand/wellfound-agent)
-
-Local automation that finds fresh jobs, scores them against your resume with a local LLM (Ollama), and auto-applies to the best matches. No cloud keys, data never leaves the machine.
-
-### Tech Stack
-
-Python • Ollama • Llama 3.1 • Web automation
-
-### Features
-
-* Fresh-listing discovery + tech-role filter
-* Resume-match scoring (0–10)
-* Auto-apply with safety caps
-* Sanitized, privacy-first design
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-
----
-
-### AI / ML
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
----
-
-### Full Stack Development
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
----
-
-### Cybersecurity & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-
----
-
-### Blockchain & Cloud
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-
----
-
-### Video & Automation (new)
-
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white)
-![Remotion](https://img.shields.io/badge/Remotion-000000?style=flat&logo=react&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-
----
-
-# 📊 GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=Atul2512anand&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Atul2512anand&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atul2512anand&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
-
----
-
-# 📈 Contribution Graph
-
-[![Atul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Atul2512anand&theme=tokyo-night)](https://github.com/Atul2512anand)
-
----
-
-# 📜 Certifications
-
-* Microsoft Azure AI Fundamentals
-* Cisco Networking Basics
-* Google Cybersecurity Foundations
-* VOIS Data Analytics using AI/LLMs
-* Linux Fundamentals
-* ISC2 Certified in Cybersecurity (CC) — Preparing
-
----
-
-# 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/atul-anand-53007a215)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Atul2512anand)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/atul25anand)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:atul.btmtcs10232807@nfsu.ac.in)
-
----
-
-# ⚡ Current Focus
-
-* AI video generation pipelines
-* Autonomous agents (content, jobs, video)
-* DFIR tooling + cybersecurity research
-* BuildForge talent platform
-* Secure full-stack architectures
-
----
-
-⭐ If you like my work, consider following my GitHub profile and checking out my repositories.
+<p align="center"><sub>© 2026 Atul Anand · Dharwad, India · Portfolio-synced Nov 2026</sub></p>
